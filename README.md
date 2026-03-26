@@ -1,21 +1,21 @@
 Community Media Website
- Description
+Description
 This website shares community news, events, and video interviews in Lesotho.
  Pages
-- Home (index.html)
-- News (news.html)
-- Events (events.html)
-- Videos (videos.html)
-- Contact (contact.html)
+ Home (index.html)
+ News (news.html)
+ Events (events.html)
+ Videos (videos.html)
+ Contact (contact.html)
  Features
-- Navigation menu linking all pages
-- Events table with colorful design
-- Embedded YouTube videos
-- Image gallery of community activities
-- Contact form
+ Navigation menu linking all pages
+Events table with colorful design
+ Embedded YouTube videos
+ Image gallery of community activities
+ Contact form
  Technologies Used
-- HTML
-- CSS
+ HTML
+ CSS
 How to run the project
 Download the folder
 Open it 
