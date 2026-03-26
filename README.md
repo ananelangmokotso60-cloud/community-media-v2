@@ -14,7 +14,5 @@ Features
 - Image gallery of community activities.
 - Contact form
 Technologies used
-- HTML
-- CSS
-Author
-- Ananelang Mokotso
+ HTML CSS
+Author Ananelang Mokotso
