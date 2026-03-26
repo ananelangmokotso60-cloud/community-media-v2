@@ -21,7 +21,7 @@ Download the folder
 Open it 
 Click index.html
 Site opens in your brower
- Author
+Author
 Ananelang Mokotso
 Date
 25 March 2026
